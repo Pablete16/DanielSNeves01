@@ -1,5 +1,5 @@
 ## Sejam bem vindos ao meu perfil 💙
-## Meu nome é HenriqueCorazza
+## Meu nome é Pablo Vinícius 
 
 - Eu estou desenvolvendo Alura
 - Estou desenvolvendo a linguagem JavaScript
@@ -7,5 +7,5 @@
 
 - ## você pode entrar em contato comigo📧
 
-  hrique456@gmail.com
+  Pablvinicius1612@gmail.com
   

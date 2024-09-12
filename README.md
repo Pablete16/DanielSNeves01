@@ -1,5 +1,5 @@
 ## Sejam bem vindos ao meu perfil 💙
-## Meu nome é Daniel
+## Meu nome é HenriqueCorazza
 
 - Eu estou desenvolvendo Alura
 - Estou desenvolvendo a linguagem JavaScript
@@ -7,8 +7,5 @@
 
 - ## você pode entrar em contato comigo📧
 
-  danieldasilvaneves@gmail.com
-
-  @dan1_jkk
-
-  danieldasilvanevesneves
+  hrique456@gmail.com
+  
